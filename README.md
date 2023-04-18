@@ -3,9 +3,9 @@
 This code generation plugin is written using python [jinja module](https://github.com/pallets/jinja), which is very simple and flexible, and can be changed according to your needs
 
 ## how to use
-1. Install python3.9\
-2. pip install -U Jinja2\
-3. git clone https://github.com/265525/codegeneration-allcode.git \
+1. Install python3.9
+2. pip install -U Jinja2
+3. git clone https://github.com/265525/codegeneration-allcode.git
 4. Run demo.py
 ## example
 ```
